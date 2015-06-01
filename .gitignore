@@ -1,0 +1,6 @@
+# emacs
+*~
+.sass-cache
+assets/css/*.css
+assets/js/*.js
+assets/*.html
